@@ -1,3 +1,5 @@
 def letters_up(user_str: str) -> str:
     """Функция заглавных букв"""
-    return user_str.upper()
+    """Еще один докстринг"""
+    new_str = user_str.upper()
+    return new_str
